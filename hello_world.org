@@ -1,0 +1,23 @@
+#+TITLE: Hello, world!
+#+AUTHOR: perimetro20
+#+DATE: <2020-08-12 Wed>
+#+EMAIL: aandreetoledo@gmail.com
+#+LANGUAGE: en
+
+* Introduction
+  My screename is ~perimetro20~, my actual name is Andreé Toledo, I am a software developer from México. 
+
+* Content Goals
+  This is my blog in which I'll post about the different technical aspects in which I have something to contribute.
+  I intend to post content continuously, which might include opinion pieces, product anouncements, technical descriptions and tutorials.
+  I hope for my readers to find technical and interesting value in what I publish and for this blog to furhter their technical careers as many
+  others have done the same for me.
+
+* Technical Goals
+  This blog is a code project in-and-on-itself. It is starting as a barebones export of an org file to html, and as it progresses
+  I'll add new and more exciting features. Updates to the blog will be posted as technical posts with all the code included.
+  
+  #+CAPTION: This is a screenshot of the current state of the blog, hopefully it will work as a nice time machine to look back on the progress made.
+  #+NAME: fig: Recursive Screenshot
+  #+ATTR_HTML: :width 600
+  [[./resources/hello_world_screenshot.png]]
